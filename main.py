@@ -1,0 +1,2 @@
+-t [target] -p [port] -t [number threads]
+-d <ip|domain>
